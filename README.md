@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jithin-27
-- 👀 I’m interested in 🙃
+- 👀 I’m interested in ASP .NET CORE
 - 🌱 I’m currently learning Full stack development
 - 💞️ I’m looking to collaborate on 🙃
 - 📫 How to reach me: jithinmurali0707@gmail.com
